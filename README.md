@@ -1,4 +1,4 @@
-# Retail-Analysis-
+# Retail-Data-Analysis-
 
 Lets say we have a table "OrderDetail" with the following columns:
 
