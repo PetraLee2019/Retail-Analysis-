@@ -1,14 +1,13 @@
 # Retail-Data-Analysis-
 
-## 1 
-Lets say we have a table "OrderDetail" with the following columns:
+- Lets say we have a table "OrderDetail" with the following columns:
 We would like to find those customers who bought hats (value "Hat") in 2016. Also include total quantity of hats per customer
 We would like to find those customers who bought only hats (value = "Hat")  in 2016. Also include total quantity of hats per customer
 Write a query for each of the above questions
 ![Alt Tag](https://github.com/PetraLee2019/Retail-Data-Analysis-/blob/master/%231%20Using%20Python.pdf)
 
-## 2
-A company sends out many emails to it's subscribers, and is interested in details about two specific emails.
+
+- A company sends out many emails to it's subscribers, and is interested in details about two specific emails.
 
 	Sends	Opens
 Email 1	2000	1600
