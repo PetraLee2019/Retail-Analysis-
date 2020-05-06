@@ -25,9 +25,7 @@ What is the Open Rate for all 4 emails combined?
 
 ![Alt Tag](https://github.com/PetraLee2019/Retail-Data-Analysis-/blob/master/%232%20Using%20Python.pdf)
 
-## 3
-The data shows the daily visits to a website and the number of internal searches performed on that site
+- The data shows the daily visits to a website and the number of internal searches performed on that site
 Estimate the Visits for Oct 15
 Do a chart that shows the relationship between Site Visits and Searches
-
-![Alt Tag](http://localhost:8888/view/Projects/Retail-Analysis-/%231%20Visualization%20using%20Plotly.png)
+https://github.com/PetraLee2019/Retail-Data-Analysis-/blob/master/%231%20Visualization%20using%20Plotly.png
