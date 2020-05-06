@@ -1,6 +1,6 @@
 # Retail-Analysis-
 
-Lets say we have a table "OrderDetail" with the following columns:
+"OrderDetail" with the following columns:
 
 We would like to find those customers who bought hats (value "Hat") in 2016. Also include total quantity of hats per customer
 
